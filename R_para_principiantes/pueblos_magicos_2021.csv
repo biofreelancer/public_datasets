@@ -1,0 +1,124 @@
+estado,pueblo,ingreso,altitud,habitantes,region
+Aguascalientes,Asientos,2006,2155,51536,norte
+Aguascalientes,Calvillo,2012,1629,21049,norte
+Aguascalientes,San Jose de Gracia,2015,2046,8896,norte
+BC,Tecate,2012,540,108440,norte
+BC Sur,Todos Santos,2006,27,5148,norte
+BC Sur,Loreto,2012,5,20385,norte
+Campeche,Palizada,2011,1,3089,sur
+Chiapas,San Cristobal,2003,2200,158027,sur
+Chiapas,Comitan,2012,1635,141800,sur
+Chiapas,Chiapa de Corzo,2012,420,45077,sur
+Chiapas,Palenque,2015,60,51797,sur
+Chihuahua,Bocoyna (Creel),2007,2350,5026,norte
+Chihuahua,Batopilas,2012,577,1220,norte
+Chihuahua,Casas Grandes,2015,1471,5256,norte
+Coahuila,Parras,2004,1533,44472,norte
+Coahuila,Arteaga,2012,1680,15534,norte
+Coahuila,Cuatro Cienegas,2012,1689,13013,norte
+Coahuila,Viesca,2012,1100,3610,norte
+Coahuila,Candela,2015,422,1492,norte
+Coahuila,Guerrero,2015,216,2091,norte
+Coahuila,Muzquiz,2018,499,69102,norte
+Colima,Comala,2002,600,21544,centro
+Durango,Mapimi,2012,1303,26932,norte
+Durango,Nombre de Dios,2018,1736,5302,norte
+Guanajuato,Dolores Hidalgo,2002,1920,67101,centro
+Guanajuato,Jalpa de Canovas,2012,1747,706,centro
+Guanajuato,Salvatierra,2012,1759,92411,centro
+Guanajuato,Mineral de pozos,2012,2010,175608,centro
+Guanajuato,Yuriria,2012,2423,70782,centro
+Guanajuato,Comonfort,2018,1790,82216,centro
+Guerrero,Taxco de Alarcon,2002,1778,50399,centro
+Hidalgo,Huasca de Ocampo,2001,2089,538,centro
+Hidalgo,Mineral del Monte,2004,2712,11149,centro
+Hidalgo,Mineral del Chico,2011,2342,481,centro
+Hidalgo,Huichapan,2012,2100,9853,centro
+Hidalgo,Tecozautla,2015,1704,6701,centro
+Hidalgo,Zimapan,2018,1779,14732,centro
+Jalisco,Tapalpa,2002,2068,19506,centro
+Jalisco,Tequila,2003,1199,29203,centro
+Jalisco,Mazamitla,2005,2246,40000,centro
+Jalisco,San Sebastian del Oeste,2011,955,5626,centro
+Jalisco,Lagos de Moreno,2012,1876,172403,centro
+Jalisco,Mascota,2015,1237,8801,centro
+Jalisco,Talpa de Allende,2015,1383,13612,centro
+Jalisco,Tlaquepaque,2018,1569,687127,centro
+Edomex,Tepotzotlan,2002,2300,88559,centro
+Edomex,Valle de Bravo,2005,1825,25554,centro
+Edomex,Malinalco,2010,1740,6523,centro
+Edomex,El Oro,2011,2740,93718,centro
+Edomex,Metepec,2012,2570,873536,centro
+Edomex,Aculco,2015,2450,44823,centro
+Edomex,Ixtapan de la Sal,2015,1884,35552,centro
+Edomex,San Martin de las Pir.,2015,2311,26960,centro
+Edomex,Teotihuacan,2015,2277,23325,centro
+Edomex,Villa del Carbon,2015,2600,8778,centro
+Michoacan,Patzcuaro,2002,2140,60811,centro
+Michoacan,Tlalpujahua,2005,2595,3530,centro
+Michoacan,Cuitzeo,2006,1837,10239,centro
+Michoacan,Santa Clara del Cobre,2010,2227,16748,centro
+Michoacan,Angangueo,2012,2560,3977,centro
+Michoacan,Jiquilpan,2012,1552,24662,centro
+Michoacan,Tacambaro,2012,1654,79540,centro
+Michoacan,Tzintzuntzan,2012,2047,3534,centro
+Morelos,Tepoztlan,2002,1700,36145,centro
+Morelos,Tlayacapan,2011,1640,14467,centro
+Nayarit,Jala,2012,1979,17698,centro
+Nayarit,Sayulita,2015,2,2262,centro
+Nayarit,Compostela,2018,190,17573,centro
+NLeon,Santiago,2006,480,36840,norte
+NLeon,Linares,2015,356,70368,norte
+NLeon,Bustamante,2018,452,3640,norte
+Oaxaca,Capulalpam de Mendez,2007,2064,1318,sur
+Oaxaca,Huautla de Jimenez,2015,1713,10528,sur
+Oaxaca,San Pablo Villa de Mitla,2015,1686,8167,sur
+Oaxaca,San Pedro Teposcolula,2015,2171,3989,sur
+Oaxaca,Mazunte,2015,32,1850,sur
+Puebla,Cuetzalan del Progreso,2002,645,48648,centro
+Puebla,Zacatlan,2011,2040,87765,centro
+Puebla,Chignahuapan,2012,2282,19608,centro
+Puebla,Pahuatlan,2012,1060,3523,centro
+Puebla,San Andres Cholula,2012,2100,100439,centro
+Puebla,San Pedro Cholula,2012,2190,129032,centro
+Puebla,Tlatlauquitepec,2012,1929,58832,centro
+Puebla,Xicotepec,2012,796,71454,centro
+Puebla,Atlixco,2015,1834,132827,centro
+Puebla,Huauchinango,2015,1519,103946,centro
+Queretaro,Bernal,2005,2054,3965,centro
+Queretaro,Jalpan de Serra,2010,1036,25550,centro
+Queretaro,Cadereyta de Montes,2011,2042,13347,centro
+Queretaro,Tequisquiapan,2012,1870,29799,centro
+Queretaro,San Joaquin,2015,1694,8865,centro
+Queretaro,Amealco de Bonfil,2018,2629,62197,centro
+Q. Roo,Bacalar,2006,15,12527,sur
+Q. Roo,Isla Mujeres,2015,1,13174,sur
+Q. Roo,Tulum,2015,5,33374,sur
+San Luis ,Catorce,2001,2728,1392,centro
+San Luis ,Xilitla,2011,638,50064,centro
+San Luis ,Aquismon,2018,548,2127,centro
+Sinaloa,Cosala,2005,380,6577,norte
+Sinaloa,El Fuerte,2009,90,12566,norte
+Sinaloa,Rosario,2012,17,16011,norte
+Sinaloa,Mocorito,2015,80,5426,norte
+Sonora,Alamos,2005,381,10961,norte
+Sonora,Magdalena,2012,771,31180,norte
+Tabasco,Tacotalpa (Tapijulapa),2010,58,2921,sur
+Tamaulipas,Mier,2007,64,4762,norte
+Tamaulipas,Tula,2011,1170,10043,norte
+Tlaxcala,Huamantla,2007,2512,59871,centro
+Tlaxcala,Tlaxco,2015,2553,14806,centro
+Veracruz,Coatepec,2006,1192,93911,centro
+Veracruz,Papantla,2006,186,53546,centro
+Veracruz,Xico,2011,1311,18652,centro
+Veracruz,Coscomatepec,2015,1535,15252,centro
+Veracruz,Orizaba,2015,1235,120995,centro
+Veracruz,Zozocolco de Hidalgo,2015,327,3221,centro
+Yucatan,Izamal,2002,20,28555,sur
+Yucatan,Valladolid,2012,30,55494,sur
+Zacatecas,Jerez,2007,1999,48132,norte
+Zacatecas,Teul de Gonzalez,2011,1900,3374,norte
+Zacatecas,Nochistlan de Mejia,2012,1874,16814,norte
+Zacatecas,Pinos,2012,2475,6304,norte
+Zacatecas,Sombrerete,2012,2317,25068,norte
+Zacatecas,Guadalupe,2018,2334,170029,norte
