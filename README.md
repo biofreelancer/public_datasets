@@ -7,8 +7,8 @@ Descripción de los datasets
 
 > Este dataset fue creado por [Sergio Romero-Romero](https://www.researchgate.net/profile/Sergio-Romero-Romero)
 > Subido por iaguilaror@gmail.com el 29 de Septiembre de 2021.
-> Los datos provienen de la comparación entre proteínas diseñadas De Novo.
-> El archivo es formato excel, y contiene una matriz triangular, de 17 x 17 proteínas.
+> Los datos provienen de la comparación de secuencias de aminoácidos entre proteínas diseñadas De Novo.
+> El archivo es formato excel, y contiene una matriz triangular de 17 x 17 proteínas.
 > En cada celda se registra el porcentaje de identidad de secuencia entre pares de proteínas.
 > Para más información consultar el siguiente artículo: [Romero-Romero, Sergio, et al. "The stability landscape of de novo TIM barrels explored by a modular design approach." Journal of molecular biology 433.18 (2021): 167153.](https://www.sciencedirect.com/science/article/pii/S002228362100382X)
 
