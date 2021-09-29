@@ -1,5 +1,5 @@
-# public_datasets (Datasets Públicos BioFreelancer)
-Datasets de uso libre para talleres y cursos BioFreelancer.
+# Datasets Públicos BioFreelancer
+Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
