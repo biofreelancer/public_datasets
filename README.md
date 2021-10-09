@@ -12,6 +12,13 @@ Descripción de los datasets
 > En cada celda se registra el porcentaje de identidad de secuencia entre pares de proteínas.
 > Para más información consultar el siguiente artículo: [Romero-Romero, Sergio, et al. "The stability landscape of de novo TIM barrels explored by a modular design approach." Journal of molecular biology 433.18 (2021): 167153.](https://www.sciencedirect.com/science/article/pii/S002228362100382X)
 
+### Rgym/genomas_covid_mexico.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 08 de Octubre de 2021.
+> Contiene informacion para todas las muestras SARS-CoV-2 enviadas desde Mexico al portal GISAID.
+> La informacion fue descargada el 04 de Octubre de 2021 a las 10AM. Asi que este dataset no contiene muestras despues de esa fecha.
+> La data base de muestras y fechas viene del portal [GISAID](https://www.gisaid.org/)
+> Esta data no se debe usar con fines de lucro, ni tampoco usarse sin citar la fuente GISAID original.
+
 ### R_para_principiantes/pueblos_magicos_2021.csv
 
 > Este dataset fue creado por iaguilaror@gmail.com el 22 de Septiembre de 2021.
