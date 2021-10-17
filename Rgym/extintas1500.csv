@@ -1,0 +1,12 @@
+grupo,especies_extintas,categoria,imagen
+Anfibios,35,vertebrados,anfibios.png
+Aracnidos,9,artropodos,aracnidos.png
+Aves,159,vertebrados,aves.png
+Crustaceos,11,invertebrados,crustaceos.png
+Peces,80,vertebrados,peces.png
+Insectos,63,artropodos,insectos.png
+Mamiferos,85,vertebrados,mamiferos.png
+Moluscos,299,invertebrados,moluscos.png
+Otros animales,7,otros,otros.png
+Plantas,122,otros,plantas.png
+Reptiles,30,vertebrados,reptiles.png
