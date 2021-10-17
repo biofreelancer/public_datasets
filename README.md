@@ -3,6 +3,14 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/extintas1500.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 16 de Octubre de 2021.
+> Contiene informacion sobre el numero de especies extintas desde 1500 hasta 2020, en diferentes categorias.
+> La informacion fue descargada de [our world in data](https://ourworldindata.org/birds?fbclid=IwAR2clJxiM7BWo4Xwedehs586eTqt1lBYcbhbHU3St9JCPZs0lzPe1PvQwn8)
+> iaguilar agrego las columnas de "categoria"	e "imagen"
+> Esta data no se debe usar con fines de lucro, ni tampoco usarse sin citar la fuente Our World in Data original.
+
+
 ### Rgym/proteinas_romero_matriz.xlsx
 
 > Este dataset fue creado por [Sergio Romero-Romero](https://www.researchgate.net/profile/Sergio-Romero-Romero)
