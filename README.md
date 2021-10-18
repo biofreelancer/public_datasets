@@ -3,6 +3,13 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/Padron Sistema Nacional de Investigadores 1984 a 2020/Anexo.39121_Membresía Nacional_1984-2021.xlsx
+> Este dataset fue creado por iaguilaror@gmail.com el 17 de Octubre de 2021.
+> Contiene informacion sobre el padrón histórico del Sistema Nacional de Investigadores de México, desde su creación en 1984 a 2020.
+> La informacion fue solicitada a través del portal de transparencia del gobierno de méxico. En el directorio se incluyen los oficios de respuesta del gobierno a la solicitud de información.
+> Se eliminó la columna con el nombre completo de los investigadores por respeto a su privacidad.
+> Si requieres el nombre de los investigadores, puedes solicitarlo al portal de transparencia.
+
 ### Rgym/extintas1500.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 16 de Octubre de 2021.
 > Contiene informacion sobre el numero de especies extintas desde 1500 hasta 2020, en diferentes categorias.
