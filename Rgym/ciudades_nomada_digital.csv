@@ -1,0 +1,51 @@
+Ciudad,Costo_nomada,Playa,Mbps,Seguridad
+Queretaro,867,Sin playita,12,Regular
+La Paz,1080,Con playita,16,Regular
+Merida,1087,Con playita,12,Regular
+San Luis Potosi,1095,Sin playita,12,Regular
+San Cristobal de Las Casas,1099,Sin playita,25,Regular
+Guadalajara,1129,Sin playita,13,Mala
+Aguascalientes,1133,Sin playita,12,Mala
+Cancun,1144,Con playita,12,Regular
+Hermosillo,1154,Sin playita,13,Regular
+Tijuana,1155,Sin playita,13,Regular
+Puebla,1204,Sin playita,12,Regular
+Oaxaca,1206,Sin playita,16,Regular
+Monterrey,1211,Sin playita,12,Regular
+Guanajuato,1233,Sin playita,16,Regular
+San Miguel de Allende,1384,Sin playita,18,Regular
+Playa del Carmen,1386,Con playita,10,Regular
+Mexicali,1415,Sin playita,13,Regular
+Cozumel,1432,Con playita,14,Regular
+Cabo San Lucas,1483,Con playita,23,Regular
+CDMX,1499,Sin playita,20,Regular
+Juarez,1673,Sin playita,25,Mala
+Puerto Vallarta,1743,Con playita,34,Regular
+Puerto Escondido,1770,Con playita,25,Regular
+Isla Mujeres,1927,Con playita,25,Regular
+Torreon,2093,Sin playita,13,Mala
+Tulum,2192,Con playita,13,Regular
+Toluca,2229,Sin playita,16,Regular
+Sayulita,2814,Con playita,16,Regular
+Tokio,2996,Sin playita,30,Buena
+Paris,3924,Sin playita,29,Regular
+Nueva York,5021,Sin playita,33,Buena
+Lisboa,2036,Con playita,26,Buena
+Ginebra,5410,Sin playita,36,Buena
+Anchorage ,5049,Con playita,36,Regular
+Edimburgo,3956,Con playita,26,Buena
+Reikiavik,4493,Con playita,28,Buena
+Sao Paulo,1169,Con playita,21,Mala
+Quebec,2284,Con playita,25,Regular
+Osaka,2212,Con playita,26,Buena
+Montreal,2964,Sin playita,23,Regular
+Wellington,2785,Con playita,28,Buena
+Bangkok,1354,Con playita,33,Buena
+Budapest,1517,Sin playita,40,Regular
+Praga,2193,Sin playita,38,Regular
+Las palmas Islas Canarias,2336,Con playita,25,Buena
+Berlin,3119,Sin playita,30,Buena
+Tenerife,2142,Con playita,22,Buena
+Barcelona,3029,Con playita,35,Regular
+Moscu,2091,Sin playita,17,Regular
+Londres,4299,Con playita,22,Buena
