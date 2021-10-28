@@ -43,3 +43,13 @@ Descripción de los datasets
 > La información es mejorable. Se aceptan contribuciones.
 > La columna de "region" se asigno arbitrariamente a criterio de iaguilaror@gmail.com y solo con fines de simplificar un ejercicio en R.
 > No tomar esta regionalización como una fuente seria.
+
+### R_para_principiantes/pingus.csv
+> Este dataset fue colectado y publicado por Dr. Kristen Gorman y la estacion Palmer, Antarctica LTER.
+> Contiene informacion colectada en tres islas diferentes de 344 pinguinos, pertenecientes a tres especies diferentes.
+> La data proviene del paquete de R "palmerpenguins"
+> Esta data no se debe usar con fines de lucro, ni tampoco usarse sin citar la fuente: 
+> > Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
+> > Archipelago (Antarctica) penguin data. R package version 0.1.0.
+> > https://allisonhorst.github.io/palmerpenguins/. doi:
+> > 10.5281/zenodo.3960218.
