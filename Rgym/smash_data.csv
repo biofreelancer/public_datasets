@@ -1,0 +1,83 @@
+personaje,ganados,perdidos,win_ratio,categoria,etiqueta
+Banjo-Kazooie,22869,20704,1.10456916537867,Ganadores,1.1 Banjo-Kazooie
+Bayonetta,14194,11867,1.19608999747198,Ganadores,1.2 Bayonetta
+Bowser,47202,45584,1.03549491049491,Ganadores,1.04 Bowser
+Bowser Jr.,14481,12062,1.20054717293981,Ganadores,1.2 Bowser Jr.
+Byleth,9260,12094,0.765668926740532,Perdedores,0.77 Byleth
+Captain Falcon,22080,25694,0.859344594068654,Perdedores,0.86 Captain Falcon
+Chrom,14467,16146,0.896011396011396,Perdedores,0.9 Chrom
+Cloud,44914,46983,0.95596279505353,Perdedores,0.96 Cloud
+Corrin,6872,9317,0.737576473113663,Perdedores,0.74 Corrin
+Daisy,3926,4019,0.976859915401841,Perdedores,0.98 Daisy
+Dark Pit,7237,9003,0.803843163389981,Perdedores,0.8 Dark Pit
+Dark Samus,9614,8253,1.16490972979523,Ganadores,1.16 Dark Samus
+Diddy Kong,10782,10196,1.05747351902707,Ganadores,1.06 Diddy Kong
+Donkey Kong,31079,28206,1.10185776076012,Ganadores,1.1 Donkey Kong
+Dr. Mario,10891,9484,1.14835512442008,Ganadores,1.15 Dr. Mario
+Duck Hunt,8761,7781,1.12594782161676,Ganadores,1.13 Duck Hunt
+Falco,10386,14346,0.72396486825596,Perdedores,0.72 Falco
+Fox,12988,16207,0.801382118837539,Perdedores,0.8 Fox
+Ganondorf,25026,26080,0.959585889570552,Perdedores,0.96 Ganondorf
+Greninja,20181,19743,1.02218507825558,Ganadores,1.02 Greninja
+Hero,18197,18865,0.964590511529287,Perdedores,0.96 Hero
+Ice Climbers,7228,6628,1.09052504526252,Ganadores,1.09 Ice Climbers
+Ike,24886,21829,1.14004306198177,Ganadores,1.14 Ike
+Incineroar,11271,11828,0.952908353060534,Perdedores,0.95 Incineroar
+Inkling,41574,40813,1.0186460196506,Ganadores,1.02 Inkling
+Isabelle,10567,10371,1.01889885256967,Ganadores,1.02 Isabelle
+Jigglypuff,19766,24827,0.796149353526403,Perdedores,0.8 Jigglypuff
+Joker,41302,55959,0.738076091424078,Perdedores,0.74 Joker
+Ken,14717,11047,1.33221689146375,Ganadores,1.33 Ken
+King Dedede,24045,20366,1.1806442109398,Ganadores,1.18 King Dedede
+King K. Rool,22075,21548,1.02445702617412,Ganadores,1.02 King K. Rool
+Kirby,14224,17025,0.835477239353891,Perdedores,0.84 Kirby
+Link,27925,28321,0.986017442886904,Perdedores,0.99 Link
+Little Mac,18387,18392,0.999728142670726,Perdedores,1 Little Mac
+Lucario,6285,7378,0.85185687178097,Perdedores,0.85 Lucario
+Lucas,20033,21426,0.934985531597125,Perdedores,0.93 Lucas
+Lucina,24894,35810,0.695168947221447,Perdedores,0.7 Lucina
+Luigi,31052,25722,1.20721561309385,Ganadores,1.21 Luigi
+Mario,29542,32741,0.902293760117284,Perdedores,0.9 Mario
+Marth,6162,9488,0.649451939291737,Perdedores,0.65 Marth
+Mega Man,14268,11831,1.20598427859014,Ganadores,1.21 Mega Man
+Meta Knight,5019,5236,0.95855614973262,Perdedores,0.96 Meta Knight
+Mewtwo,5814,7766,0.748647952613958,Perdedores,0.75 Mewtwo
+Mii Brawler,5608,6239,0.898861997114922,Perdedores,0.9 Mii Brawler
+Mii Gunner,7770,6662,1.16631642149505,Ganadores,1.17 Mii Gunner
+Mii Swordfighter,7688,7119,1.07992695603315,Ganadores,1.08 Mii Swordfighter
+Min Min,4263,3618,1.17827529021559,Ganadores,1.18 Min Min
+Mr. Game and Watch,23617,23526,1.00386806086883,Ganadores,1 Mr. Game and Watch
+Ness,48381,45026,1.07451250388664,Ganadores,1.07 Ness
+Olimar,4331,4673,0.926813610100578,Perdedores,0.93 Olimar
+Pac-Man,23766,20514,1.15852588476163,Ganadores,1.16 Pac-Man
+Palutena,46967,43335,1.08381216107073,Ganadores,1.08 Palutena
+Peach,13187,12272,1.07455997392438,Ganadores,1.07 Peach
+Pichu,13740,14068,0.976684674438442,Perdedores,0.98 Pichu
+Pikachu,25979,28607,0.908134372705981,Perdedores,0.91 Pikachu
+Piranha Plant,14519,15130,0.959616655651024,Perdedores,0.96 Piranha Plant
+Pit,5160,5930,0.870151770657673,Perdedores,0.87 Pit
+Pokemon Trainer,43164,44944,0.960395158419366,Perdedores,0.96 Pokemon Trainer
+R.O.B.,41182,31475,1.30840349483717,Ganadores,1.31 R.O.B.
+Random,10205,10988,0.928740444120859,Perdedores,0.93 Random
+Richter,12901,9024,1.42963209219858,Ganadores,1.43 Richter
+Ridley,14042,14149,0.992437628100926,Perdedores,0.99 Ridley
+Robin,14369,11807,1.21698992123317,Ganadores,1.22 Robin
+Rosalina,4754,5443,0.873415395921367,Perdedores,0.87 Rosalina
+Roy,19869,25252,0.786828766038334,Perdedores,0.79 Roy
+Ryu,5289,4314,1.2260083449235,Ganadores,1.23 Ryu
+Samus,22085,19972,1.10579811736431,Ganadores,1.11 Samus
+Sheik,4117,5913,0.69626247251818,Perdedores,0.7 Sheik
+Shulk,13450,14341,0.937870441391814,Perdedores,0.94 Shulk
+Simon Belmont,4971,3711,1.33953112368634,Ganadores,1.34 Simon Belmont
+Snake,46295,33855,1.36744941662974,Ganadores,1.37 Snake
+Sonic,30022,25217,1.19054606019749,Ganadores,1.19 Sonic
+Terry,24065,20476,1.17527837468256,Ganadores,1.18 Terry
+Toon Link,14355,14316,1.00272422464376,Ganadores,1 Toon Link
+Villager,9098,9035,1.00697288323188,Ganadores,1.01 Villager
+Wario,10439,11739,0.889258028792912,Perdedores,0.89 Wario
+Wii Fit Trainer,20368,15975,1.27499217527387,Ganadores,1.27 Wii Fit Trainer
+Wolf,43209,47381,0.911947827188113,Perdedores,0.91 Wolf
+Yoshi,38911,35975,1.08161223071577,Ganadores,1.08 Yoshi
+Young Link,20968,22616,0.927131234524231,Perdedores,0.93 Young Link
+Zelda,28215,23424,1.20453381147541,Ganadores,1.2 Zelda
+Zero Suit Samus,20083,18487,1.0863309352518,Ganadores,1.09 Zero Suit Samus
