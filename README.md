@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/smash_data.csv
+ Este dataset fue creado por iaguilaror@gmail.com el 30 de Octubre de 2021.
+> Contiene informacion resumidad sobre 1.5 millones de enfrentamientos 1vs1 en Smassh Bros. Ultimate.
+> La informacion fue adaptada de [el autor original](https://github.com/ben-heil/ultimate_matchups)
+> iaguilar realizo el summarize para saber el numero de partidas, ganadas, perdidas, y win ratio a partir del dataset de ben-heil.
+
 ### Rgym/Padron Sistema Nacional de Investigadores 1984 a 2020/Anexo.39121_Membresía Nacional_1984-2021.xlsx
 > Este dataset fue creado por iaguilaror@gmail.com el 17 de Octubre de 2021.
 > Contiene informacion sobre el padrón histórico del Sistema Nacional de Investigadores de México, desde su creación en 1984 a 2020.
