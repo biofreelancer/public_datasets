@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/lol.csv
+ Este dataset fue creado por iaguilaror@gmail.com el 7 de Noviembre de 2021.
+> Contiene informacion de los stats de los campeones de LOL registrados hasta esta fecha
+> La informacion fue tomada de [la wiki de lol](https://leagueoflegends.fandom.com/wiki/List_of_champions/Base_statistics)
+> iaguilar elimino las columnas de incrementos; solo mantuvo los stats base.
+
 ### Rgym/smash_data.csv
  Este dataset fue creado por iaguilaror@gmail.com el 30 de Octubre de 2021.
 > Contiene informacion resumidad sobre 1.5 millones de enfrentamientos 1vs1 en Smassh Bros. Ultimate.
