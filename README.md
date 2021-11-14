@@ -3,14 +3,18 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/finanzas2021.cvs
+> Este dataset fue creado por iaguilaror@gmail.com el 13 de Noviembre de 2021.
+> Contiene informacion simulada para gastos y ahorros personales a lo largo de cada dia del anio 2021.
+ 
 ### Rgym/lol.csv
- Este dataset fue creado por iaguilaror@gmail.com el 7 de Noviembre de 2021.
+> Este dataset fue creado por iaguilaror@gmail.com el 7 de Noviembre de 2021.
 > Contiene informacion de los stats de los campeones de LOL registrados hasta esta fecha
 > La informacion fue tomada de [la wiki de lol](https://leagueoflegends.fandom.com/wiki/List_of_champions/Base_statistics)
 > iaguilar elimino las columnas de incrementos; solo mantuvo los stats base.
 
 ### Rgym/smash_data.csv
- Este dataset fue creado por iaguilaror@gmail.com el 30 de Octubre de 2021.
+> Este dataset fue creado por iaguilaror@gmail.com el 30 de Octubre de 2021.
 > Contiene informacion resumidad sobre 1.5 millones de enfrentamientos 1vs1 en Smassh Bros. Ultimate.
 > La informacion fue adaptada de [el autor original](https://github.com/ben-heil/ultimate_matchups)
 > iaguilar realizo el summarize para saber el numero de partidas, ganadas, perdidas, y win ratio a partir del dataset de ben-heil.
