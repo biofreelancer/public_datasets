@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/1000genomes_variants_chr21.vcf.gz
+TODO
+
+### Rgym/circoslinks/
+TODO
+
 ### Rgym/finanzas2021.cvs
 > Este dataset fue creado por iaguilaror@gmail.com el 13 de Noviembre de 2021.
 > Contiene informacion simulada para gastos y ahorros personales a lo largo de cada dia del anio 2021.
