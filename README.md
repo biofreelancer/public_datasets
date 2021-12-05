@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/deseos_2022.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 4 de Diciembre de 2021.
+> Contiene informacion resultado de encuestar 87 personas en facebook.
+> Se les pidio que fueran de Mexico. Las respuestas fueron anonimas.
+> Cada encuestado registro su edad y la cantidad de dinero en pesos mexicanos MXN que quisieran ganar mensualmente, despues de impuestos, en el año 2022.
+
 ### Rgym/1000genomes_variants_chr21.vcf.gz
 TODO
 
