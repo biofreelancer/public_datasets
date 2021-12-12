@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/lluviasmx.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 11 de Diciembre de 2021.
+> Contiene informacion de https://smn.conagua.gob.mx/es/climatologia/temperaturas-y-lluvias/resumenes-mensuales-de-temperaturas-y-lluvias?fbclid=IwAR1RMXFu6TmpnHMlul9q82FmRgsDa99EUXwc9t9Qsz29N07XwYnRA-0H1vM
+> Son las mediciones de promedio mensual de lluvias ( precipiación en mm ) de enero a noviembre 2021
+
 ### Rgym/deseos_2022.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 4 de Diciembre de 2021.
 > Contiene informacion resultado de encuestar 87 personas en facebook.
