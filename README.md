@@ -3,6 +3,13 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/nobels.csv
+TO-DO
+
+
+### Rgym/nuevos_ingresos_universidadmx.csv
+TO-DO
+
 ### Rgym/nuevos_ingresos_universidadmx.csv
 TO-DO
 
