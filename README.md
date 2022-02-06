@@ -3,6 +3,9 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/bitcoin.csv
+TO-DO taken from https://mx.investing.com/crypto/bitcoin/btc-usd-historical-data
+
 ### Rgym/anime.csv
 TO-DO taken from kaggle.
 
