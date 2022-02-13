@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/maizmexico.csv
+TO-DO taken from https://www.fao.org/faostat/en/#home
+merge de https://www.fao.org/faostat/en/#data/TCL
+y https://www.fao.org/faostat/en/#data/QCL
+
 ### Rgym/bitcoin.csv
 TO-DO taken from https://mx.investing.com/crypto/bitcoin/btc-usd-historical-data
 
