@@ -3,6 +3,9 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/capacidadelectrica.csv
+TO-DO taken from https://www.gob.mx/sener/articulos/programa-para-el-desarrollo-del-sistema-electrico-nacional
+
 ### Rgym/maizmexico.csv
 TO-DO taken from https://www.fao.org/faostat/en/#home
 merge de https://www.fao.org/faostat/en/#data/TCL
