@@ -1,0 +1,14 @@
+energia,tipo,mw
+Limpia Renovable,Hidroelectrica,12614
+Limpia Renovable,Geotermoelectrica,946
+Limpia Renovable,Eoloelectrica,7691
+Limpia Renovable,Fotovoltaica,7026
+Limpia Renovable,Bioenergia,408
+Limpia No Renovable,Nucleoelectrica,1608
+Limpia No Renovable,Cogeneracion eficiente,2309
+Sucia,Ciclo combinado,35060
+Sucia,Termica convencional,11809
+Sucia,Turbogas,3781
+Sucia,Combustion interna,734
+Sucia,Carbolectrica,5463
+
