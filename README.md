@@ -3,6 +3,10 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/emisiones_co2.csv
+TO-DO taken from https://github.com/owid/co2-data
+> edited by iaguilar to calculate per capita change from 2019 to 2020, per country.
+
 ### Rgym/capacidadelectrica.csv
 TO-DO taken from https://www.gob.mx/sener/articulos/programa-para-el-desarrollo-del-sistema-electrico-nacional
 
