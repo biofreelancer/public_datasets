@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/sueldos.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 12 de Marzo de 2021.
+> Contiene informacion resumida de los sueldos promedio mensuales en México, para diferentes profesiones.
+> Se descargaron los datos para 2016 a 2021, para el primer trimestre de cada año. Las categorias de las profesiones son definidas por el portal www.datamexico.org.
+> por ejemplo: https://datamexico.org/es/profile/occupation/investigadores-y-especialistas-en-ciencias-exactas-biologicas-ingenieria-informatica-y-en-telecomunicaciones
+
 ### Rgym/emisiones_co2.csv
 TO-DO taken from https://github.com/owid/co2-data
 > edited by iaguilar to calculate per capita change from 2019 to 2020, per country.
