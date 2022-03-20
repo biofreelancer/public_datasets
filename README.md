@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/exportaciones_ucrania.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 19 de Marzo de 2021.
+> Contiene informacion de las exportaciones Ucranianas estimadas
+> Fuente de los datos: https://www.fao.org/faostat/en/#data/TM
+> FAO-ONU
+
 ### Rgym/sueldos.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 12 de Marzo de 2021.
 > Contiene informacion resumida de los sueldos promedio mensuales en México, para diferentes profesiones.
