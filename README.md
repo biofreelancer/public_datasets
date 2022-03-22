@@ -3,14 +3,22 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/mascotas.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 22 de Marzo de 2022.
+> Contiene informacion del número total de mascotas en México, además del número de gatos y perros (en calidad de mascota)
+> Fuente de los datos: # Fuente de los datos: 01EST_T12-MASCOTAS.xlsx
+> URL: https://www.inegi.org.mx/programas/enbiare/2021/#Tabulados  > Mascotas
+> Número de mascotas por entidad federativa, según el tipo de mascota		
+> INEGI - ENBIARE 2021 (Encuesta Nacional de Bienestar Autorreportado (ENBIARE) 2021)
+
 ### Rgym/exportaciones_ucrania.csv
-> Este dataset fue creado por iaguilaror@gmail.com el 19 de Marzo de 2021.
+> Este dataset fue creado por iaguilaror@gmail.com el 19 de Marzo de 2022.
 > Contiene informacion de las exportaciones Ucranianas estimadas
 > Fuente de los datos: https://www.fao.org/faostat/en/#data/TM
 > FAO-ONU
 
 ### Rgym/sueldos.csv
-> Este dataset fue creado por iaguilaror@gmail.com el 12 de Marzo de 2021.
+> Este dataset fue creado por iaguilaror@gmail.com el 12 de Marzo de 2022.
 > Contiene informacion resumida de los sueldos promedio mensuales en México, para diferentes profesiones.
 > Se descargaron los datos para 2016 a 2021, para el primer trimestre de cada año. Las categorias de las profesiones son definidas por el portal www.datamexico.org.
 > por ejemplo: https://datamexico.org/es/profile/occupation/investigadores-y-especialistas-en-ciencias-exactas-biologicas-ingenieria-informatica-y-en-telecomunicaciones
