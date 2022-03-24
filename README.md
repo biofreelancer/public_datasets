@@ -3,6 +3,13 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/AIFA.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 24 de Marzo de 2022.
+> Contiene informacion del los vuelos que salen desde el Aeropuerto Internacional Felipe Ángeles hasta esta fecha
+> Categorizados por tipo de vuelo (Nacional, Internacional)
+> Fuente de los datos: El financiero
+> URL: https://www.elfinanciero.com.mx/nacional/2022/03/21/estos-son-los-precios-de-los-vuelos-que-salen-del-aifa/
+
 ### Rgym/mascotas.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 22 de Marzo de 2022.
 > Contiene informacion del número total de mascotas en México, además del número de gatos y perros (en calidad de mascota)
