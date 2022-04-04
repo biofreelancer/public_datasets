@@ -3,6 +3,25 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/guerra.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 04 de Abril de 2022.
+> Contiene informacion del la cantidad de muertes en conflictos armados desde 1989 hasta 2020
+> Incluye las muertes civiles, militantes de algún bando, y de afilicación desconocida
+> Fuente: Uppsala Conflict Data Program Department of Peace and Conflict Researc
+> Fuente original de los datos: https://ucdp.uu.se/
+> Descripción original de los datos: https://ucdp.uu.se/downloads/ged/ged211.pdf
+> Procesamiento: Israel aguilar selecciono y renombró columnas a partir del dataset "ged211.csv", con el siguiente código:
+´´´´
+select( year, dyad_name, where_description, deaths_a:deaths_unknown ) %>%
+  mutate( muertes_militantes = deaths_a + deaths_b ) %>% 
+  rename( anio = year,
+          involucrados = dyad_name,
+          lugar = where_description,
+          muertes_civiles = deaths_civilians,
+          muertes_desconocidas = deaths_unknown ) %>% 
+  select( -deaths_a, -deaths_b )
+´´´´
+
 ### Rgym/AIFA.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 24 de Marzo de 2022.
 > Contiene informacion del los vuelos que salen desde el Aeropuerto Internacional Felipe Ángeles hasta esta fecha
