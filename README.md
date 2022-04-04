@@ -11,7 +11,7 @@ Descripción de los datasets
 > Fuente original de los datos: https://ucdp.uu.se/
 > Descripción original de los datos: https://ucdp.uu.se/downloads/ged/ged211.pdf
 > Procesamiento: Israel aguilar selecciono y renombró columnas a partir del dataset "ged211.csv", con el siguiente código:
-´´´´
+````
 select( year, dyad_name, where_description, deaths_a:deaths_unknown ) %>%
   mutate( muertes_militantes = deaths_a + deaths_b ) %>% 
   rename( anio = year,
@@ -20,7 +20,7 @@ select( year, dyad_name, where_description, deaths_a:deaths_unknown ) %>%
           muertes_civiles = deaths_civilians,
           muertes_desconocidas = deaths_unknown ) %>% 
   select( -deaths_a, -deaths_b )
-´´´´
+````
 
 ### Rgym/AIFA.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 24 de Marzo de 2022.
