@@ -3,6 +3,13 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/will_o_chris.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 04 de Abril de 2022.
+> Contiene informacion de una encuesta random a un grupo pequeño de gente en facebook
+> Le preguntamos a la gente a quien apoyaban en el "conflicto" chris rock vs will smith
+> Fuente: Encuesta random en facebook
+> Disclaimer: en biofreelancer no apoyamos ninguna forma de violencia
+
 ### Rgym/guerra.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 04 de Abril de 2022.
 > Contiene informacion del la cantidad de muertes en conflictos armados desde 1989 hasta 2020
