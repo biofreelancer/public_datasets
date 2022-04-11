@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/senadoresmx2022.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 010 de Abril de 2022.
+> Contiene informacion sobre la escolaridad de los senadores de la republica en Mexico
+> Fuente: https://www.senado.gob.mx/64/senadores#SG
+> y datos de: http://sil.gobernacion.gob.mx/portal
+
 ### Rgym/will_o_chris.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 04 de Abril de 2022.
 > Contiene informacion de una encuesta random a un grupo pequeño de gente en facebook
