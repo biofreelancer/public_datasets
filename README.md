@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/got.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 21 de Abril de 2022.
+> Contiene informacion sobre la calificación de la crítica del sitio IMDB (internet movie database)
+> para cada uno de los episodios de Game Of Thrones de HBO
+> Fuente: https://www.imdb.com/title/tt0944947/
+
 ### Rgym/senadoresmx2022.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 010 de Abril de 2022.
 > Contiene informacion sobre la escolaridad de los senadores de la republica en Mexico
