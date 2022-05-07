@@ -3,6 +3,12 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/starwars.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 07 de Mayo de 2022.
+> Contiene informacion sobre naves de las películas de StarWars, y su numero de apariciones en el guion de los primeros 6 episodios.
+> Fuente de las naves: https://swapi.dev/
+> Fuente de los guiones: https://bulletproofscreenwriting.tv/star-wars-movies-screenplay-download/
+
 ### Rgym/got.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 21 de Abril de 2022.
 > Contiene informacion sobre la calificación de la crítica del sitio IMDB (internet movie database)
