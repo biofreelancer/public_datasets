@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/billboard.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 14 de Mayo de 2022.
+> Contiene informacion sobre las canciones pop Top1 de cada año segun Billboard
+> Fuente de billboard: https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums
+
 ### Rgym/starwars.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 07 de Mayo de 2022.
 > Contiene informacion sobre naves de las películas de StarWars, y su numero de apariciones en el guion de los primeros 6 episodios.
