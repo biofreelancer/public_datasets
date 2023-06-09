@@ -1,0 +1,289 @@
+name,height_m,weight_kg,hp,attack,defense,sp_attack,sp_defense,speed,type
+Bulbasaur,0.7,6.9,45,49,49,65,65,45,Grass
+Bulbasaur,0.7,6.9,45,49,49,65,65,45,Poison
+Ivysaur,1,13,60,62,63,80,80,60,Grass
+Ivysaur,1,13,60,62,63,80,80,60,Poison
+Venusaur,2,100,80,82,83,100,100,80,Grass
+Venusaur,2,100,80,82,83,100,100,80,Poison
+Mega Venusaur,2.4,155.5,80,100,123,122,120,80,Grass
+Mega Venusaur,2.4,155.5,80,100,123,122,120,80,Poison
+Charmander,0.6,8.5,39,52,43,60,50,65,Fire
+Charmeleon,1.1,19,58,64,58,80,65,80,Fire
+Charizard,1.7,90.5,78,84,78,109,85,100,Fire
+Charizard,1.7,90.5,78,84,78,109,85,100,Flying
+Mega Charizard X,1.7,110.5,78,130,111,130,85,100,Fire
+Mega Charizard X,1.7,110.5,78,130,111,130,85,100,Dragon
+Mega Charizard Y,1.7,100.5,78,104,78,159,115,100,Fire
+Mega Charizard Y,1.7,100.5,78,104,78,159,115,100,Flying
+Squirtle,0.5,9,44,48,65,50,64,43,Water
+Wartortle,1,22.5,59,63,80,65,80,58,Water
+Blastoise,1.6,85.5,79,83,100,85,105,78,Water
+Mega Blastoise,1.6,101.1,79,103,120,135,115,78,Water
+Caterpie,0.3,2.9,45,30,35,20,20,45,Bug
+Metapod,0.7,9.9,50,20,55,25,25,30,Bug
+Butterfree,1.1,32,60,45,50,90,80,70,Bug
+Butterfree,1.1,32,60,45,50,90,80,70,Flying
+Weedle,0.3,3.2,40,35,30,20,20,50,Bug
+Weedle,0.3,3.2,40,35,30,20,20,50,Poison
+Kakuna,0.6,10,45,25,50,25,25,35,Bug
+Kakuna,0.6,10,45,25,50,25,25,35,Poison
+Beedrill,1,29.5,65,90,40,45,80,75,Bug
+Beedrill,1,29.5,65,90,40,45,80,75,Poison
+Mega Beedrill,1.4,40.5,65,150,40,15,80,145,Bug
+Mega Beedrill,1.4,40.5,65,150,40,15,80,145,Poison
+Pidgey,0.3,1.8,40,45,40,35,35,56,Normal
+Pidgey,0.3,1.8,40,45,40,35,35,56,Flying
+Pidgeotto,1.1,30,63,60,55,50,50,71,Normal
+Pidgeotto,1.1,30,63,60,55,50,50,71,Flying
+Pidgeot,1.5,39.5,83,80,75,70,70,101,Normal
+Pidgeot,1.5,39.5,83,80,75,70,70,101,Flying
+Mega Pidgeot,2.2,50.5,83,80,80,135,80,121,Normal
+Mega Pidgeot,2.2,50.5,83,80,80,135,80,121,Flying
+Rattata,0.3,3.5,30,56,35,25,35,72,Normal
+Alolan Rattata,0.3,3.8,30,56,35,25,35,72,Dark
+Alolan Rattata,0.3,3.8,30,56,35,25,35,72,Normal
+Raticate,0.7,18.5,55,81,60,50,70,97,Normal
+Alolan Raticate,0.7,25.5,75,71,70,40,80,77,Dark
+Alolan Raticate,0.7,25.5,75,71,70,40,80,77,Normal
+Spearow,0.3,2,40,60,30,31,31,70,Normal
+Spearow,0.3,2,40,60,30,31,31,70,Flying
+Fearow,1.2,38,65,90,65,61,61,100,Normal
+Fearow,1.2,38,65,90,65,61,61,100,Flying
+Ekans,2,6.9,35,60,44,40,54,55,Poison
+Arbok,3.5,65,60,95,69,65,79,80,Poison
+Pikachu,0.4,6,35,55,40,50,50,90,Electric
+Partner Pikachu,0.4,6,45,80,50,75,60,120,Electric
+Raichu,0.8,30,60,90,55,90,80,110,Electric
+Alolan Raichu,0.7,21,60,85,50,95,85,110,Electric
+Alolan Raichu,0.7,21,60,85,50,95,85,110,Psychic
+Sandshrew,0.6,12,50,75,85,20,30,40,Ground
+Alolan Sandshrew,0.7,40,50,75,90,10,35,40,Ice
+Alolan Sandshrew,0.7,40,50,75,90,10,35,40,Steel
+Sandslash,1,29.5,75,100,110,45,55,65,Ground
+Alolan Sandslash,1.2,55,75,100,120,25,65,65,Ice
+Alolan Sandslash,1.2,55,75,100,120,25,65,65,Steel
+Nidoran♀,0.4,7,55,47,52,40,40,41,Poison
+Nidorina,0.8,20,70,62,67,55,55,56,Poison
+Nidoqueen,1.3,60,90,92,87,75,85,76,Poison
+Nidoqueen,1.3,60,90,92,87,75,85,76,Ground
+Nidoran♂,0.5,9,46,57,40,40,40,50,Poison
+Nidorino,0.9,19.5,61,72,57,55,55,65,Poison
+Nidoking,1.4,62,81,102,77,85,75,85,Poison
+Nidoking,1.4,62,81,102,77,85,75,85,Ground
+Clefairy,0.6,7.5,70,45,48,60,65,35,Fairy
+Clefable,1.3,40,95,70,73,95,90,60,Fairy
+Vulpix,0.6,9.9,38,41,40,50,65,65,Fire
+Alolan Vulpix,0.6,9.9,38,41,40,50,65,65,Ice
+Ninetales,1.1,19.9,73,76,75,81,100,100,Fire
+Alolan Ninetales,1.1,19.9,73,67,75,81,100,109,Ice
+Alolan Ninetales,1.1,19.9,73,67,75,81,100,109,Fairy
+Jigglypuff,0.5,5.5,115,45,20,45,25,20,Normal
+Jigglypuff,0.5,5.5,115,45,20,45,25,20,Fairy
+Wigglytuff,1,12,140,70,45,85,50,45,Normal
+Wigglytuff,1,12,140,70,45,85,50,45,Fairy
+Zubat,0.8,7.5,40,45,35,30,40,55,Poison
+Zubat,0.8,7.5,40,45,35,30,40,55,Flying
+Golbat,1.6,55,75,80,70,65,75,90,Poison
+Golbat,1.6,55,75,80,70,65,75,90,Flying
+Oddish,0.5,5.4,45,50,55,75,65,30,Grass
+Oddish,0.5,5.4,45,50,55,75,65,30,Poison
+Gloom,0.8,8.6,60,65,70,85,75,40,Grass
+Gloom,0.8,8.6,60,65,70,85,75,40,Poison
+Vileplume,1.2,18.6,75,80,85,110,90,50,Grass
+Vileplume,1.2,18.6,75,80,85,110,90,50,Poison
+Paras,0.3,5.4,35,70,55,45,55,25,Bug
+Paras,0.3,5.4,35,70,55,45,55,25,Grass
+Parasect,1,29.5,60,95,80,60,80,30,Bug
+Parasect,1,29.5,60,95,80,60,80,30,Grass
+Venonat,1,30,60,55,50,40,55,45,Bug
+Venonat,1,30,60,55,50,40,55,45,Poison
+Venomoth,1.5,12.5,70,65,60,90,75,90,Bug
+Venomoth,1.5,12.5,70,65,60,90,75,90,Poison
+Diglett,0.2,0.8,10,55,25,35,45,95,Ground
+Alolan Diglett,0.2,1,10,55,30,35,45,90,Ground
+Alolan Diglett,0.2,1,10,55,30,35,45,90,Steel
+Dugtrio,0.7,33.3,35,100,50,50,70,120,Ground
+Alolan Dugtrio,0.7,66.6,35,100,60,50,70,110,Ground
+Alolan Dugtrio,0.7,66.6,35,100,60,50,70,110,Steel
+Meowth,0.4,4.2,40,45,35,40,40,90,Normal
+Alolan Meowth,0.4,4.2,40,35,35,50,40,90,Dark
+Galarian Meowth,0.4,7.5,50,65,55,40,40,40,Steel
+Persian,1,32,65,70,60,65,65,115,Normal
+Alolan Persian,1.1,33,65,60,60,75,65,115,Dark
+Psyduck,0.8,19.6,50,52,48,65,50,55,Water
+Golduck,1.7,76.6,80,82,78,95,80,85,Water
+Mankey,0.5,28,40,80,35,35,45,70,Fighting
+Primeape,1,32,65,105,60,60,70,95,Fighting
+Growlithe,0.7,19,55,70,45,70,50,60,Fire
+Arcanine,1.9,155,90,110,80,100,80,95,Fire
+Poliwag,0.6,12.4,40,50,40,40,40,90,Water
+Poliwhirl,1,20,65,65,65,50,50,90,Water
+Poliwrath,1.3,54,90,95,95,70,90,70,Water
+Poliwrath,1.3,54,90,95,95,70,90,70,Fighting
+Abra,0.9,19.5,25,20,15,105,55,90,Psychic
+Kadabra,1.3,56.5,40,35,30,120,70,105,Psychic
+Alakazam,1.5,48,55,50,45,135,95,120,Psychic
+Mega Alakazam,1.2,48,55,50,65,175,105,150,Psychic
+Machop,0.8,19.5,70,80,50,35,35,35,Fighting
+Machoke,1.5,70.5,80,100,70,50,60,45,Fighting
+Machamp,1.6,130,90,130,80,65,85,55,Fighting
+Bellsprout,0.7,4,50,75,35,70,30,40,Grass
+Bellsprout,0.7,4,50,75,35,70,30,40,Poison
+Weepinbell,1,6.4,65,90,50,85,45,55,Grass
+Weepinbell,1,6.4,65,90,50,85,45,55,Poison
+Victreebel,1.7,15.5,80,105,65,100,70,70,Grass
+Victreebel,1.7,15.5,80,105,65,100,70,70,Poison
+Tentacool,0.9,45.5,40,40,35,50,100,70,Water
+Tentacool,0.9,45.5,40,40,35,50,100,70,Poison
+Tentacruel,1.6,55,80,70,65,80,120,100,Water
+Tentacruel,1.6,55,80,70,65,80,120,100,Poison
+Geodude,0.4,20,40,80,100,30,30,20,Rock
+Geodude,0.4,20,40,80,100,30,30,20,Ground
+Alolan Geodude,0.4,20.3,40,80,100,30,30,20,Rock
+Alolan Geodude,0.4,20.3,40,80,100,30,30,20,Electric
+Graveler,1,105,55,95,115,45,45,35,Rock
+Graveler,1,105,55,95,115,45,45,35,Ground
+Alolan Graveler,1,110,55,95,115,45,45,35,Rock
+Alolan Graveler,1,110,55,95,115,45,45,35,Electric
+Golem,1.4,300,80,120,130,55,65,45,Rock
+Golem,1.4,300,80,120,130,55,65,45,Ground
+Alolan Golem,1.7,316,80,120,130,55,65,45,Rock
+Alolan Golem,1.7,316,80,120,130,55,65,45,Electric
+Ponyta,1,30,50,85,55,65,65,90,Fire
+Galarian Ponyta,0.8,24,50,85,55,65,65,90,Psychic
+Rapidash,1.7,95,65,100,70,80,80,105,Fire
+Galarian Rapidash,1.7,80,65,100,70,80,80,105,Psychic
+Galarian Rapidash,1.7,80,65,100,70,80,80,105,Fairy
+Slowpoke,1.2,36,90,65,65,40,40,15,Water
+Slowpoke,1.2,36,90,65,65,40,40,15,Psychic
+Slowbro,1.6,78.5,95,75,110,100,80,30,Water
+Slowbro,1.6,78.5,95,75,110,100,80,30,Psychic
+Mega Slowbro,2,120,95,75,180,130,80,30,Water
+Mega Slowbro,2,120,95,75,180,130,80,30,Psychic
+Magnemite,0.3,6,25,35,70,95,55,45,Electric
+Magnemite,0.3,6,25,35,70,95,55,45,Steel
+Magneton,1,60,50,60,95,120,70,70,Electric
+Magneton,1,60,50,60,95,120,70,70,Steel
+Farfetch'd,0.8,15,52,90,55,58,62,60,Normal
+Farfetch'd,0.8,15,52,90,55,58,62,60,Flying
+Galarian Farfetch'd,0.8,42,52,95,55,58,62,55,Fighting
+Doduo,1.4,39.2,35,85,45,35,35,75,Normal
+Doduo,1.4,39.2,35,85,45,35,35,75,Flying
+Dodrio,1.8,85.2,60,110,70,60,60,110,Normal
+Dodrio,1.8,85.2,60,110,70,60,60,110,Flying
+Seel,1.1,90,65,45,55,45,70,45,Water
+Dewgong,1.7,120,90,70,80,70,95,70,Water
+Dewgong,1.7,120,90,70,80,70,95,70,Ice
+Grimer,0.9,30,80,80,50,40,50,25,Poison
+Alolan Grimer,0.7,42,80,80,50,40,50,25,Poison
+Alolan Grimer,0.7,42,80,80,50,40,50,25,Dark
+Muk,1.2,30,105,105,75,65,100,50,Poison
+Alolan Muk,1,52,105,105,75,65,100,50,Poison
+Alolan Muk,1,52,105,105,75,65,100,50,Dark
+Shellder,0.3,4,30,65,100,45,25,40,Water
+Cloyster,1.5,132.5,50,95,180,85,45,70,Water
+Cloyster,1.5,132.5,50,95,180,85,45,70,Ice
+Gastly,1.3,0.1,30,35,30,100,35,80,Ghost
+Gastly,1.3,0.1,30,35,30,100,35,80,Poison
+Haunter,1.6,0.1,45,50,45,115,55,95,Ghost
+Haunter,1.6,0.1,45,50,45,115,55,95,Poison
+Gengar,1.5,40.5,60,65,60,130,75,110,Ghost
+Gengar,1.5,40.5,60,65,60,130,75,110,Poison
+Mega Gengar,1.4,40.5,60,65,80,170,95,130,Ghost
+Mega Gengar,1.4,40.5,60,65,80,170,95,130,Poison
+Onix,8.8,210,35,45,160,30,45,70,Rock
+Onix,8.8,210,35,45,160,30,45,70,Ground
+Drowzee,1,32.4,60,48,45,43,90,42,Psychic
+Hypno,1.6,75.6,85,73,70,73,115,67,Psychic
+Krabby,0.4,6.5,30,105,90,25,25,50,Water
+Kingler,1.3,60,55,130,115,50,50,75,Water
+Voltorb,0.5,10.4,40,30,50,55,55,100,Electric
+Electrode,1.2,66.6,60,50,70,80,80,150,Electric
+Exeggcute,0.4,2.5,60,40,80,60,45,40,Grass
+Exeggcute,0.4,2.5,60,40,80,60,45,40,Psychic
+Exeggutor,2,120,95,95,85,125,75,55,Grass
+Exeggutor,2,120,95,95,85,125,75,55,Psychic
+Alolan Exeggutor,10.9,415.6,95,105,85,125,75,45,Grass
+Alolan Exeggutor,10.9,415.6,95,105,85,125,75,45,Dragon
+Cubone,0.4,6.5,50,50,95,40,50,35,Ground
+Marowak,1,45,60,80,110,50,80,45,Ground
+Alolan Marowak,1,34,60,80,110,50,80,45,Fire
+Alolan Marowak,1,34,60,80,110,50,80,45,Ghost
+Hitmonlee,1.5,49.8,50,120,53,35,110,87,Fighting
+Hitmonchan,1.4,50.2,50,105,79,35,110,76,Fighting
+Lickitung,1.2,65.5,90,55,75,60,75,30,Normal
+Koffing,0.6,1,40,65,95,60,45,35,Poison
+Weezing,1.2,9.5,65,90,120,85,70,60,Poison
+Galarian Weezing,3,16,65,90,120,85,70,60,Poison
+Galarian Weezing,3,16,65,90,120,85,70,60,Fairy
+Rhyhorn,1,115,80,85,95,30,30,25,Ground
+Rhyhorn,1,115,80,85,95,30,30,25,Rock
+Rhydon,1.9,120,105,130,120,45,45,40,Ground
+Rhydon,1.9,120,105,130,120,45,45,40,Rock
+Chansey,1.1,34.6,250,5,5,35,105,50,Normal
+Tangela,1,35,65,55,115,100,40,60,Grass
+Kangaskhan,2.2,80,105,95,80,40,80,90,Normal
+Mega Kangaskhan,2.2,100,105,125,100,60,100,100,Normal
+Horsea,0.4,8,30,40,70,70,25,60,Water
+Seadra,1.2,25,55,65,95,95,45,85,Water
+Goldeen,0.6,15,45,67,60,35,50,63,Water
+Seaking,1.3,39,80,92,65,65,80,68,Water
+Staryu,0.8,34.5,30,45,55,70,55,85,Water
+Starmie,1.1,80,60,75,85,100,85,115,Water
+Starmie,1.1,80,60,75,85,100,85,115,Psychic
+Mr. Mime,1.3,54.5,40,45,65,100,120,90,Psychic
+Mr. Mime,1.3,54.5,40,45,65,100,120,90,Fairy
+Galarian Mr. Mime,1.4,56.8,50,65,65,90,90,100,Psychic
+Galarian Mr. Mime,1.4,56.8,50,65,65,90,90,100,Ice
+Scyther,1.5,56,70,110,80,55,80,105,Bug
+Scyther,1.5,56,70,110,80,55,80,105,Flying
+Jynx,1.4,40.6,65,50,35,115,95,95,Ice
+Jynx,1.4,40.6,65,50,35,115,95,95,Psychic
+Electabuzz,1.1,30,65,83,57,95,85,105,Electric
+Magmar,1.3,44.5,65,95,57,100,85,93,Fire
+Pinsir,1.5,55,65,125,100,55,70,85,Bug
+Mega Pinsir,1.7,59,65,155,120,65,90,105,Bug
+Mega Pinsir,1.7,59,65,155,120,65,90,105,Flying
+Tauros,1.4,88.4,75,100,95,40,70,110,Normal
+Magikarp,0.9,10,20,10,55,15,20,80,Water
+Gyarados,6.5,235,95,125,79,60,100,81,Water
+Gyarados,6.5,235,95,125,79,60,100,81,Flying
+Mega Gyarados,6.5,305,95,155,109,70,130,81,Water
+Mega Gyarados,6.5,305,95,155,109,70,130,81,Dark
+Lapras,2.5,220,130,85,80,85,95,60,Water
+Lapras,2.5,220,130,85,80,85,95,60,Ice
+Ditto,0.3,4,48,48,48,48,48,48,Normal
+Eevee,0.3,6.5,55,55,50,45,65,55,Normal
+Partner Eevee,0.3,6.5,65,75,70,65,85,75,Normal
+Vaporeon,1,29,130,65,60,110,95,65,Water
+Jolteon,0.8,24.5,65,65,60,110,95,130,Electric
+Flareon,0.9,25,65,130,60,95,110,65,Fire
+Porygon,0.8,36.5,65,60,70,85,75,40,Normal
+Omanyte,0.4,7.5,35,40,100,90,55,35,Rock
+Omanyte,0.4,7.5,35,40,100,90,55,35,Water
+Omastar,1,35,70,60,125,115,70,55,Rock
+Omastar,1,35,70,60,125,115,70,55,Water
+Kabuto,0.5,11.5,30,80,90,55,45,55,Rock
+Kabuto,0.5,11.5,30,80,90,55,45,55,Water
+Kabutops,1.3,40.5,60,115,105,65,70,80,Rock
+Kabutops,1.3,40.5,60,115,105,65,70,80,Water
+Aerodactyl,1.8,59,80,105,65,60,75,130,Rock
+Aerodactyl,1.8,59,80,105,65,60,75,130,Flying
+Mega Aerodactyl,2.1,79,80,135,85,70,95,150,Rock
+Mega Aerodactyl,2.1,79,80,135,85,70,95,150,Flying
+Snorlax,2.1,460,160,110,65,65,110,30,Normal
+Articuno,1.7,55.4,90,85,100,95,125,85,Ice
+Articuno,1.7,55.4,90,85,100,95,125,85,Flying
+Zapdos,1.6,52.6,90,90,85,125,90,100,Electric
+Zapdos,1.6,52.6,90,90,85,125,90,100,Flying
+Moltres,2,60,90,100,90,125,85,90,Fire
+Moltres,2,60,90,100,90,125,85,90,Flying
+Dratini,1.8,3.3,41,64,45,50,50,50,Dragon
+Dragonair,4,16.5,61,84,65,70,70,70,Dragon
+Dragonite,2.2,210,91,134,95,100,100,80,Dragon
+Dragonite,2.2,210,91,134,95,100,100,80,Flying
+Mewtwo,2,122,106,110,90,154,90,130,Psychic
+Mega Mewtwo X,2.3,127,106,190,100,154,100,130,Psychic
+Mega Mewtwo X,2.3,127,106,190,100,154,100,130,Fighting
+Mega Mewtwo Y,1.5,33,106,150,70,194,120,140,Psychic
+Mew,0.4,4,100,100,100,100,100,100,Psychic
