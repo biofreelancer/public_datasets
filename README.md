@@ -3,6 +3,13 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+
+### Rgym/encuesta_pokemon.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 18 de Junio de 2023.
+> Contiene resultados de una e cuesta ficticia donde se le pregunto a las personas cual era su pokemon starter favorito de la generacion 1.
+> Los datos los generó chatGPT, estimando el porcentaje de la población que favorece a un pokemon de acuerdo a los trends de busqueda.
+> Fuente: chatGPT. No usar para fines serio. Es meramente didactico para practicar ggplot.
+
 ### Rgym/billboard.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 14 de Mayo de 2022.
 > Contiene informacion sobre las canciones pop Top1 de cada año segun Billboard
@@ -192,3 +199,4 @@ TODO
 > > Archipelago (Antarctica) penguin data. R package version 0.1.0.
 > > https://allisonhorst.github.io/palmerpenguins/. doi:
 > > 10.5281/zenodo.3960218.
+
