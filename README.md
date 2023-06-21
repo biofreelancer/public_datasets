@@ -3,6 +3,10 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/pokedex_gen8.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 21 de Junio de 2023.
+> Contiene stats generales para todos los pokemon conocidos hasta la generación 8.
+> Fuente: Datos descargados de kaggle.
 
 ### Rgym/encuesta_pokemon.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 18 de Junio de 2023.
