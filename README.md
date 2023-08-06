@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/gympokemons.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 06 de Agosto de 2023.
+> Contiene stats la lista completa de los lideres de gimnasio, Elite4 y similares, de cada juego Pokemon desde la generacion 1 a la 8
+> Fuente: chatGPT, version free, consultada en Julio 2023
+
 ### Rgym/pokedex_gen8.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 21 de Junio de 2023.
 > Contiene stats generales para todos los pokemon conocidos hasta la generación 8.
