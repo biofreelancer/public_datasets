@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/pokemon_starter_moveset.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 17 de Septiembre de 2023.
+> Contiene la lista completa de los movimientos que pueden aprender los pokemons starters de cada generación. Solo incluye los movimientos aprendibles por "level up".  
+> Fuente: bulbapedia, scrap a mano, consultada en Septiembre 2023
+
 ### Rgym/gympokemons.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 06 de Agosto de 2023.
 > Contiene stats la lista completa de los lideres de gimnasio, Elite4 y similares, de cada juego Pokemon desde la generacion 1 a la 8
