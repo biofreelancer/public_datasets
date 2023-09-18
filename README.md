@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/popularidad_pokemon.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 14 de Mayo de 2023.
+> Contiene una lista del volumen de busquedas google estimadas para algunos pokemons. 
+> Fuente: chatGPT, version free, consultada en Mayo 2023
+
 ### Rgym/pokemon_starter_moveset.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 17 de Septiembre de 2023.
 > Contiene la lista completa de los movimientos que pueden aprender los pokemons starters de cada generación. Solo incluye los movimientos aprendibles por "level up".  
