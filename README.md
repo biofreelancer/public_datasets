@@ -3,6 +3,11 @@ Datos de uso libre creados para talleres y cursos BioFreelancer.
 
 Descripción de los datasets
 
+### Rgym/posiciones_abejas.csv
+> Este dataset fue creado por iaguilaror@gmail.com el 05 de Septiembre de 2021.
+> Contiene el movimiento de miles de abejas en un panal 2D. Tomado con 2 “fotogramas” por segundo. En cada fotograma, registraron la posición de cada abeja   
+> Fuente: https://groups.oist.jp/bptu/honeybee-tracking-dataset#det   
+
 ### Rgym/popularidad_pokemon.csv
 > Este dataset fue creado por iaguilaror@gmail.com el 14 de Mayo de 2023.
 > Contiene una lista del volumen de busquedas google estimadas para algunos pokemons. 
