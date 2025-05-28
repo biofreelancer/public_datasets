@@ -219,8 +219,11 @@ TODO
 > Contiene informacion colectada en tres islas diferentes de 344 pinguinos, pertenecientes a tres especies diferentes.
 > La data proviene del paquete de R "palmerpenguins"
 > Esta data no se debe usar con fines de lucro, ni tampoco usarse sin citar la fuente: 
-> > Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
-> > Archipelago (Antarctica) penguin data. R package version 0.1.0.
-> > https://allisonhorst.github.io/palmerpenguins/. doi:
-> > 10.5281/zenodo.3960218.
+> Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
+> Archipelago (Antarctica) penguin data. R package version 0.1.0.
+> https://allisonhorst.github.io/palmerpenguins/. doi:
+> 10.5281/zenodo.3960218.
 
+### Rgym/pan_promedio_mexico.csv
+> Este dataset fue colectado por iaguilar con ayuda de chatGPT, a partir del link en: "Con datos de: https://ensanut.insp.mx/encuestas/ensanutcontinua2023/descargas.php". El archivo descargado fue: frec_ad_rec_w.csv  
+> Contiene informacion de INEGI sobre el consumo semanal promedio de pan dulce en México.
