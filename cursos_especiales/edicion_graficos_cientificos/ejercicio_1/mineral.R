@@ -3,7 +3,7 @@ pacman::p_load( "vroom", "ggplot2", "tidyr",
                 "dplyr", "ggsci" )
 
 # cargar data
-minerales.df <- vroom( file = "minerales.tsv" ) %>% 
+minerales.df <- vroom( file = "https://data.biofreelancer.com/mineral" )  %>% 
   filter( mineral %in% c( 
     # "Bauxite",
     # "Aluminium",
@@ -12,6 +12,8 @@ minerales.df <- vroom( file = "minerales.tsv" ) %>%
     "Lead",
     "Lithium",
     "Antimony" ) )
+
+vroom_write( x = minerales.df, file = "minerales.tsv2" )
 
 # graficar cambio en toneladas
 linea1.p <- ggplot( data = minerales.df,
