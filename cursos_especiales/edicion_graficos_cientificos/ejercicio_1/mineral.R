@@ -27,6 +27,9 @@ linea2.p <- linea1.p +
 # Vis
 linea2.p
 
+# clean for sourcing
+rm( linea1.p ) 
+
 # guardar en svg
 #ggsave( plot = linea2.p,
 #        file = "minerales.pdf",
