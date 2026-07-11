@@ -24,10 +24,11 @@ linea2.p <- linea1.p +
   scale_color_aaas( ) +
   theme_classic( )
 
+# Vis
 linea2.p
 
 # guardar en svg
-ggsave( plot = linea2.p,
-        file = "minerales.pdf",
-        width = 10,
-        height = 7 )
+#ggsave( plot = linea2.p,
+#        file = "minerales.pdf",
+#        width = 10,
+#        height = 7 )
