@@ -227,3 +227,7 @@ TODO
 ### Rgym/pan_promedio_mexico.csv
 > Este dataset fue colectado por iaguilar con ayuda de chatGPT, a partir del link en: "Con datos de: https://ensanut.insp.mx/encuestas/ensanutcontinua2023/descargas.php". El archivo descargado fue: frec_ad_rec_w.csv  
 > Contiene informacion de INEGI sobre el consumo semanal promedio de pan dulce en México.
+
+### Rgym/EAU_population_data.tsv  
+> Este dataset fue colectado por iaguilar con ayuda de Gemini, a partir del link en: "https://www.populationpyramid.net/es/emiratos-%C3%A1rabes-unidos/2025/".  
+> Especificamente la data anual 2025 de Emiratos Arabes Unidos.
