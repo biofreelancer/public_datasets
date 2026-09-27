@@ -1,3 +1,6 @@
+if ( ! requireNamespace( "pacman" ) )
+  install.packages("pacman")
+
 pacman::p_load( "vroom", "dplyr", "tidyr", "ggplot2" )
 
 poblacion <- vroom( file = "https://data.biofreelancer.com/piramide2026" ) %>% 
