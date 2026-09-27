@@ -1,46 +1,73 @@
 pacman::p_load( "vroom", "dplyr", "tidyr", "ggplot2" )
 
-poblacion.df <- vroom( file = "https://raw.githubusercontent.com/biofreelancer/public_datasets/refs/heads/main/Rgym/EAU_population_data.tsv" ) %>% 
+poblacion <- vroom( file = "https://data.biofreelancer.com/piramide2026" ) %>% 
   as_tibble( )
 
-str( poblacion.df )
+str( poblacion )
 
-# 1. Asegurar que 'Age' mantenga su orden secuencial y no se ordene alfabéticamente
-poblacion.df$Age <- factor(poblacion.df$Age, levels = unique(poblacion.df$Age))
+# Transformar los datos y preparar los valores negativos para los hombres
+pob_long <- poblacion %>%
+  pivot_longer( cols = c( hombres, mujeres ),
+                names_to = "sexo",
+                values_to = "cantidad" )
 
-# 2. Transformar los datos y preparar los valores negativos para los hombres
-datos_piramide <- poblacion.df %>%
-  # Pasar de 3 columnas (Age, M, F) a 3 columnas (Age, Sex, Population)
-  pivot_longer(cols = c(M, F), names_to = "Sex", values_to = "Population") %>%
-  # Multiplicar los valores de los Hombres ('M') por -1 para dibujar el lado izquierdo
-  mutate(Population_Plot = ifelse(Sex == "M", -Population, Population))
+pob_long2 <- pob_long %>% 
+  mutate( valores_pob = ifelse( test = sexo == "hombres",
+                                yes = cantidad * -1,
+                                no = cantidad ) )
 
-# 3. Crear el gráfico con ggplot
-ggplot(datos_piramide, aes(x = Age, y = Population_Plot, fill = Sex)) +
-  geom_col(width = 0.85, alpha = 0.9) +
-  coord_flip() + # Voltear las coordenadas para la forma de pirámide
-  
-  # Usar la función abs() para que el eje X (que ahora es Y por coord_flip) no muestre números negativos
-  scale_y_continuous(
-    labels = function(x) format(abs(x), big.mark = ",", scientific = FALSE)
-  ) +
-  
-  # Personalizar los colores y la leyenda
-  scale_fill_manual(
-    values = c("M" = "#2c3e50", "F" = "#e74c3c"),
-    labels = c("M" = "Hombres", "F" = "Mujeres") # Cambiar etiquetas en la leyenda
-  ) +
-  
-  # Mejorar la estética
-  theme_minimal(base_size = 20) +
-  theme(
-    # legend.position = "top",
-    legend.title = element_blank(),
-    plot.title = element_text(face = "bold", size = 16),
-    panel.grid.major.y = element_blank() # Quitar las líneas horizontales para mayor limpieza
-  ) +
-  labs(
-    title = "Pirámide Poblacional",
-    x = "Grupo de Edad",
-    y = "Población"
-  )
+# Graficamos con ggplot
+piramide1 <- ggplot( pob_long2,
+                     mapping = aes( x = edad,
+                                    y = valores_pob,
+                                    fill = sexo ) ) +
+  geom_col(  ) 
+
+# Visualizamos
+piramide1
+
+# arreglamos los ejes
+orden_x <- poblacion$edad
+
+minimo_y <- -1300000
+maximo_y <- 600000
+
+marcas_y <- seq( from = minimo_y,
+                 to = maximo_y,
+                 by = 100e3 ) 
+
+etiquetas_y <- format( abs( marcas_y / 1e6 ),
+                       big.mark = "," )
+
+# aplicamos las correcciones de ejes
+piramide2 <- piramide1 +
+  scale_x_discrete( limits = orden_x ) +
+  scale_y_continuous( breaks = marcas_y,
+                      labels = etiquetas_y )
+
+# vis
+piramide2
+
+# cambiamos colores, y ponemos titulos
+miscolores <- c( hombres = "skyblue", mujeres = "skyblue4" )
+
+piramide3 <- piramide2 +
+  scale_fill_manual( values = miscolores ) +
+  labs( x = "Rango de edad",
+        y = "Millones de habitantes",
+        title = "Desequilibrio poblacional en Emiratos Arabes Unidos",
+        caption = "con datos de: populationpyramid.net" ) 
+
+# Vis
+piramide3
+
+# Mejoramos los acabados, flipamos la piramide
+piramide4 <- piramide3 +
+  coord_flip( ) +
+  theme_classic( base_size = 20 ) +
+  theme( legend.position = "top" )
+
+# Vis
+piramide4
+
+# FIN, no dejes de practicar
